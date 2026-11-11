@@ -1,0 +1,19 @@
+{
+  "id": "e2e8e3d6-4444-48f1-a8e5-33f7b0a82b2e",
+  "name": "CloudVault Env",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:5000",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "authToken",
+      "value": "YOUR_AUTH0_ACCESS_TOKEN",
+      "type": "default",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment"
+}
